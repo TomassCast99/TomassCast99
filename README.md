@@ -1,6 +1,6 @@
 # Hi i'm Tomás, nice to meet you!👋👋
 
-Full stack web developer and a archeology student from Mendoza, Argentina.
+Full stack web developer and archeology student from Mendoza, Argentina.
 
 <!--
 **TomassCast99/TomassCast99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
