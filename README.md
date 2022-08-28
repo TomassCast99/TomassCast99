@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img align="center" title="Sequelize" alt="sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg">
   
 **Blockchain:**
+  <div>
 <img align="center" title="Truffle" alt="truffle" height="30" width="40" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png">
   <img align="center" title="Solidity" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
 
