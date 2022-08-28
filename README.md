@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <div>
   <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="Typescript" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" title="Solidity" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
  
 **Front-end:**
 <div>
@@ -44,6 +43,10 @@ Here are some ideas to get you started:
   <img align="center" title="nodejs" alt="nodejs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" title="Sequelize" alt="sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg">
+  
+**Blockchain:**
+<img align="center" title="Truffle" alt="truffle" height="30" width="40" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png">
+  <img align="center" title="Solidity" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
 
 **Database:**
 
