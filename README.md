@@ -1,4 +1,7 @@
+
+<div aling="center">
 # Hi i'm Tomás, nice to meet you!👋👋
+</div>
 
 Full stack web developer and archeology student from Mendoza, Argentina.
 
@@ -70,7 +73,7 @@ Here are some ideas to get you started:
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TomassCast99&show_icons=true&theme=gotham" alt="" />
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TomassCast99" alt="TomassCast99" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TomassCast99" alt="TomassCast99" /></a> </p>
   
 **Contact me:**  
  
