@@ -68,7 +68,9 @@ Here are some ideas to get you started:
 <br>
 <br>
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TomassCast99&show_icons=true&theme=gotham" alt="" />
-
+<br>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TomassCast99" alt="TomassCast99" /></a> </p>
   
 **Contact me:**  
  
