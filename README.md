@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 **Languages:**
 
-<div>
+<div align="center">
   <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="Typescript" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  
 **Front-end:**
-<div>
+<div align="center">
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -39,26 +39,26 @@ Here are some ideas to get you started:
 </div> 
   
 **Back-end:**
-<div>
+<div align="center">
   <img align="center" title="nodejs" alt="nodejs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" title="Sequelize" alt="sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg">
   
 **Web3:**
-  <div>
+  <div align="center">
 <img align="center" title="Truffle" alt="truffle" height="40" width="40" src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png">
   <img align="center" title="Solidity" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
      <img align="center" title="Ganache" alt="Ganache" height="40" width="40" src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png">
 
 **Database:**
 
- <div>
+ <div align="center">
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">
   <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 
 **Tools:**
 
-<div>
+<div align="center">
   <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" title="git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" title="npm" alt="npm" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
@@ -74,9 +74,9 @@ Here are some ideas to get you started:
   
 **Contact me:**  
  
-<a href="https://www.linkedin.com/in/tom%C3%A1s-castillo99/">
+<a href="https://www.linkedin.com/in/tom%C3%A1s-castillo99/" align="center">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:tomasscastillo99@gmail.com">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
+<a href="mailto:tomasscastillo99@gmail.com" align="center">
+  <img align="center" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
 </a>
