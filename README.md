@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   <img align="center" title="npm" alt="npm" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
   <img align="center" title="slack" alt="slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" />
   <img align="center" title="figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" title="docker" alt="docker" height="30" width="40" src="https://www.svgrepo.com/show/303231/docker-logo.svg" />
 </div>
 <br>
 <br>
